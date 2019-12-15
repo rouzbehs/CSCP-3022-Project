@@ -1,0 +1,3 @@
+Git repository      : https://github.com/rouzbehs/CSCP-3022-Project
+
+Video presentation  : https://youtu.be/Dv2a6qBy3v0
